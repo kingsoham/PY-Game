@@ -1,0 +1,9 @@
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Python paths
+__pycache__/
+*.pyc
+.venv/
