@@ -28,8 +28,8 @@ Experience deep parallax scrolling 🏔️, violent crashes with heavy screen sh
 
 ## 🛠️ Installation
 ```bash
-git clone <your-repository-url>
-cd gravity-rider
+git clone https://github.com/kingsoham/PY-Game.git
+cd PY-Game
 pip install pygame-ce
 python gravity_rider.py
 ```
